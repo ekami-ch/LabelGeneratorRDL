@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="200"
+   height="200"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="ISO_7000_-_Ref-No_2607.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.26"
+     inkscape:cx="99.846626"
+     inkscape:cy="100"
+     inkscape:window-width="1536"
+     inkscape:window-height="890"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <g
+     id="g6">
+    <path
+       d="m49.789 135.13v46.863h100.42v-46.863z"
+       id="path5" />
+    <path
+       d="m150.21 18.008v50.621a10.919 10.919 0 0 1-5.4593 9.4558l-28.643 16.537a6.2093 6.2093 0 0 0 0 10.755l28.643 16.537a10.919 10.919 0 0 1 5.4593 9.4558v50.621h-100.42v-50.621a10.919 10.919 0 0 1 5.4593-9.4558l28.643-16.537a6.2093 6.2093 0 0 0 0-10.755l-28.643-16.537a10.919 10.919 0 0 1-5.4593-9.4558v-50.621z"
+       fill="none"
+       stroke="#000"
+       stroke-width="4"
+       id="path6" />
+  </g>
+</svg>
