@@ -1,3 +1,8 @@
+# Label Generator for Red Drop Lab (https://www.reddroplab.com/)
+
+npm run deploy to publish on gh-pages.
+
+
 # Welcome to React Router!
 
 A modern, production-ready template for building full-stack React applications using React Router.

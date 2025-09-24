@@ -3,4 +3,4 @@ import { flatRoutes } from "@react-router/fs-routes";
 
 export default flatRoutes() satisfies RouteConfig;
 
-// export default [index("routes/home.tsx")] satisfies RouteConfig;
+//export default [index("routes/home.tsx")] satisfies RouteConfig;
